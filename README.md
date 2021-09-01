@@ -1,6 +1,6 @@
 # Victor Muchica
 
-> Currently learning IA, ML and Data Science in Platzi
+> Currently learning Javascript at Platzi, Solidity at Udemy 
 
 > I used to work with linux, vmware, asterisk, zabbix,grafana and I like math a lot.
 > 
